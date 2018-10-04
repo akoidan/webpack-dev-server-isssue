@@ -1,0 +1,4 @@
+- yarn install
+- node server.js
+- open in browser http://localhost:3000 and open devtools
+- edit file src/index.js and save it, browser page should update automatically
